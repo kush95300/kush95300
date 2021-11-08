@@ -1,4 +1,4 @@
-<center><img src="github-bg.gif"></center>
+<center><img src="github-bg.gif" width=900></center>
 
 ### Hey 👋
 I'm <b> Kaushal Soni</b>
