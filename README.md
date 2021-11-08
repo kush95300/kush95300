@@ -1,43 +1,43 @@
 <center><img src="github-bg.gif" width=900></center>
 
-### Hey 👋
-I'm <b> Kaushal Soni</b>
+
+
+# Hey 👋
+## I'm <b> Kaushal Soni</b>
 
 Being born and brought up in India Hindi was my First Language. My Grandfather named me Kaushal.
 
 As Kaushal ( a Hindi word) stands for Skills, I am always curious about learning new skills and conserve my little time to polish my old skills. From my school, I was always among the Top rankers and unique thinkers. I love to work in a team to achieve our goal, whether it was a Volleyball Match, Team Quizzes, or a project.
 
-👉 Fun Fact: Computer Science which I hate most (because I don't know about it), now it is the one which I never want to leave.
+**👉 Fun Fact:** *Computer Science which I hate most (because I don't know about it), now it is the one which I never want to leave.*
 
-👉 I love to dig into Customer Problems and solve them with the latest technology. I scale, automate and optimize their products with my problem-solving skills. To accomplish the results I focus on team building, skill requirement, work assignment, and multiple checking process.
+👉 *I love to dig into Customer Problems and solve them with the latest technology. I scale, automate and optimize their products with my problem-solving skills. To accomplish the results I focus on team building, skill requirement, work assignment, and multiple checking process.*
 
-👉 If you want to know me in few words then,  I am an introspective, value-oriented, inspiring, skillful, social, and extremely expressive person.
+👉 *If you want to know me in few words then,  I am an introspective, value-oriented, inspiring, skillful, social, and extremely expressive person.*
 
 If I focus on my skills then these are as follows: 
 
-◆ Professional Skills
+### ◆ Professional Skills
 MlOps || DevOps || Programming Skills || Cloud Computing || Automation || DSA
 
-◆ Soft Skills
+### ◆ Soft Skills
 Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communication
 
-◆ Technical Tools
+### ◆ Technical Tools
 Ansible || Jenkins || Git || GitHub || Kubernetes || aws || Redhat  || Docker|| Jupyter Notebook|| Flutter || Hadoop || C || C++ || Python 
 
 If you see an opportunity for us to work together or any freelancer work. Then please reach out to me on
-📧 Kaushal95300@gmail.com
+> 📧 Kaushal95300@gmail.com
 
-Check out my works and achievements around the Web 🌎 :
+#### Check out my works and achievements around the Web 🌎 :
 
-Writing Technical Blogs on Medium ✍📃📚💯
+- Writing Technical Blogs on [Medium](https://kaushalsoni.medium.com) ✍📃📚💯
+- Sharing achievements and working updates on [LinkedIn](https://www.linkedin.com/in/sonikaushal/) 🏆✨⏱👨‍✈️
+- Teaching Devops related stack on [YouTube](https://www.youtube.com/c/DevopsGyan) 🎗️🎬🌺💬
+- Instructor @ Konsola Infotech Pvt. Ltd.
+- Instructor @ [TeacherOn](https://www.teacheron.com/tutor-profile/3eLd).
+- RedHat Global Certifications Portfolio on [RedHat Professionals](https://rhtapps.redhat.com/verify?certId=210115531) 🚀🌈🥇💼
 
-Sharing achievements and working updates on LinkedIn 🏆✨⏱👨‍✈️
-
-Teaching Devops related stack on YouTube 🎗️🎬🌺💬
-
-Instructor @ Konsola Infotech Pvt. Ltd.
-
-RedHat Global Certifications Portfolio on RedHat Professionals 🚀🌈🥇💼
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kush95300&&show_icons=true&title_color=008000&icon_color=0000ff&text_color=000000&bg_color=f5f5f5" />
