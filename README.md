@@ -65,7 +65,7 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 [![GitHub kush95300](https://img.shields.io/github/followers/kush95300?label=follow&style=social)](https://github.com/kush95300)
 [![Linkedin: Kaushal Soni](https://img.shields.io/badge/-Kaushal%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonikaushal/)](https://www.linkedin.com/in/sonikaushal/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kush95300&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Kaushal%20Soni-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kaushal95300)](https://medium.com/@kaushal95300)
+[![Medium Badge](https://img.shields.io/badge/-@Kaushal%20Soni-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kaushalsoni)](https://medium.com/@kaushalsoni)
 
 <!--
 [![Polywork Badge](https://img.shields.io/badge/-kaushalsoni-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
