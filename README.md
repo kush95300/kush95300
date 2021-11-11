@@ -1,6 +1,7 @@
 <h1 align="center"> Hey { Techies }<img src="hi.gif" width="50px">, I'm <b> Kaushal Soni <img src="drink.gif" width="50px"></b> </h1>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Just+a+coderrr+,+loves+to+explore;Technology+Lover&color=ff0000)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Just+a+coderrr+,+loves+to+explore;Technology+Lover&color=ff0000)](https://git.io/typing-svg)
 
 <!--Header-->
 <div>
