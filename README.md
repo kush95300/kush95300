@@ -1,18 +1,21 @@
 <h1 align="center"> Hey { Techies }<img src="hi.gif" width="50px">, I'm <b> Kaushal Soni <img src="drink.gif" width="50px"></b> </h1>
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Just+a+coderrr+,+loves+to+explore;Technology+Lover&color=ff0000)](https://git.io/typing-svg)
+
 <!--Header-->
 <div>
 <center><img src="github-bg-border.gif" width=900></center>
 </div>
 
 <div>
-
+</br>
  <!--social media icon-->
 <div align="center">
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kush95300)
 [![GitHub kush95300](https://img.shields.io/github/followers/kush95300?label=follow&style=social)](https://github.com/kush95300)
+ ![GitHub Stars](https://img.shields.io/github/stars/kush95300?style=social)
  
 [![Linkedin: Kaushal Soni](https://img.shields.io/badge/-Kaushal%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonikaushal/)](https://www.linkedin.com/in/sonikaushal/)
 [![Medium Badge](https://img.shields.io/badge/-@Kaushal%20Soni-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kaushalsoni)](https://medium.com/@kaushalsoni)
