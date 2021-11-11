@@ -46,13 +46,8 @@ MlOps || DevOps || Programming Skills || Cloud Computing || Automation || DSA
 ### ◆ Soft Skills
 Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communication
 
-### ◆ Technical Tools
-Ansible || Jenkins || Git || GitHub || Kubernetes || aws || Redhat  || Docker|| Jupyter Notebook|| Flutter || Hadoop || C || C++ || Python 
 
-If you see an opportunity for us to work together or any freelancer work. Then please reach out to me on
-> 📧 Kaushal95300@gmail.com
-
-#### Check out my works and achievements around the Web 🌎 :
+## Check out my works and achievements around the Web 🌎 :
 
 - Writing Technical Blogs on [Medium](https://kaushalsoni.medium.com) ✍📃📚💯
 - Sharing achievements and working updates on [LinkedIn](https://www.linkedin.com/in/sonikaushal/) 🏆✨⏱👨‍✈️
@@ -80,7 +75,7 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 </p>
 
 
-### Languages and Tools :computer:
+## ◆ Languages and Tools :computer:
 
 #### Lanaguages
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
@@ -133,7 +128,7 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 
 
 
-## My Profile Stats
+## ◆ My Profile Stats
 
  
 ![Kaushal Soni's github stats](https://github-readme-stats.vercel.app/api?username=kush95300&show_icons=true&theme=dracula)
@@ -145,10 +140,10 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 <!--footer-->
 
 
-### Reach out to me 👓
+## ◆ Reach out to me 👓
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919116799050) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
@@ -176,9 +171,10 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 <br/>  
 
 
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
-
-<a href="https://www.buymeacoffee.com/sonikaushal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" ></a>
+**👇🏻 If you like what I do, support me by buying me a [coffee or book](https://www.buymeacoffee.com/sonikaushal) <img src="drink.gif" width="50px">  and add to my knowledge!** 
+<p align="center">
+<a href="https://www.buymeacoffee.com/sonikaushal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="150" ></a>
+ </p>
 
 
 
