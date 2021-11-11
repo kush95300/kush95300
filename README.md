@@ -122,6 +122,7 @@ Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communica
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
+
 #### OS 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
@@ -144,11 +145,32 @@ Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communica
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/kush95300.gif?z=6)](https://github4life.herokuapp.com/kush95300)
 
+ 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=kush95300&theme=monokai&row=1&column=8">
+  </a>
+</div><hr>
+
+<div align="center">
+ 
+ <h4>🏆 Github Terminal Stats</h4>
+ 
+![GitHub metrics](https://metrics.lecoq.io/kush95300?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+</div><hr>
+
+
+## Badges
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+
 
 <!--footer-->
 
 
-## ◆ Reach out to me 👓
+## ◆ Reach out to me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 👓
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
@@ -169,8 +191,20 @@ Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communica
 </a>
 <a href="https://instagram.com/me_.kush" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+ 
+ </br>
 
+<a href="https://t.me/joinchat/N45ZVwchE5NjYTdl" class="pics">
+ <img src="telegram.png" height="50px"> 
+</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/DevopsGyan" class="pics">
+ <img src="youtube.png" height="70px">
+ </a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kaushal95300@gmail.com" class="pics">
+ <img src="gmail.png" height="50px">
+</a>
+  
 
 
 </div>  
