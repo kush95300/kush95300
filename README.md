@@ -1,4 +1,4 @@
-<center><img src="github-bg.gif" width=900></center>
+<center><img src="github-bg-border.gif" width=900></center>
 
 
 
