@@ -1,10 +1,8 @@
+<h1 align="center"> Hey { Techies }<img src="hi.gif" width="50px">, I'm <b> Kaushal Soni <img src="drink.gif" width="50px"></b> </h1>
+
 <center><img src="github-bg-border.gif" width=900></center>
 
-
-
-# Hey 👋
-## I'm <b> Kaushal Soni</b>
-
+## About me <img src="about.gif" width="30px">
 Being born and brought up in India Hindi was my First Language. My Grandfather named me Kaushal.
 
 As Kaushal ( a Hindi word) stands for Skills, I am always curious about learning new skills and conserve my little time to polish my old skills. From my school, I was always among the Top rankers and unique thinkers. I love to work in a team to achieve our goal, whether it was a Volleyball Match, Team Quizzes, or a project.
