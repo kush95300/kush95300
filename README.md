@@ -36,6 +36,13 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 - Instructor @ [TeacherOn](https://www.teacheron.com/tutor-profile/3eLd).
 - RedHat Global Certifications Portfolio on [RedHat Professionals](https://rhtapps.redhat.com/verify?certId=210115531) 🚀🌈🥇💼
 
+### Languages and Tools :computer:
+
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/sumitt1080)](https://github.com/sumitt1080) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
+
 
 ## My Stats
 
@@ -53,6 +60,22 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 <a href=""><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> 
 <a href="https://www.linkedin.com/in/sonikaushal"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
 <a href=""><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
+
+
+[![GitHub kush95300](https://img.shields.io/github/followers/kush95300?label=follow&style=social)](https://github.com/kush95300)
+[![Linkedin: Kaushal Soni](https://img.shields.io/badge/-Kaushal%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonikaushal/)](https://www.linkedin.com/in/sonikaushal/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kush95300&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Kaushal%20Soni-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kaushal95300)](https://medium.com/@kaushal95300)
+
+<!--
+[![Polywork Badge](https://img.shields.io/badge/-kaushalsoni-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/khushbooverma_?style=social)](https://twitter.com/khushbooverma_)
+
+
+👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
+
+<a href="https://www.buymeacoffee.com/khushbooverma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+-->
 
 <!--
 **kush95300/kush95300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
