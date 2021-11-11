@@ -2,7 +2,7 @@
 
 <center><img src="github-bg-border.gif" width=900></center>
 
-## About me <img src="about.gif" width="30px">
+# About me <img src="about.gif" width="50px">
 Being born and brought up in India Hindi was my First Language. My Grandfather named me Kaushal.
 
 As Kaushal ( a Hindi word) stands for Skills, I am always curious about learning new skills and conserve my little time to polish my old skills. From my school, I was always among the Top rankers and unique thinkers. I love to work in a team to achieve our goal, whether it was a Volleyball Match, Team Quizzes, or a project.
@@ -37,9 +37,22 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 - RedHat Global Certifications Portfolio on [RedHat Professionals](https://rhtapps.redhat.com/verify?certId=210115531) 🚀🌈🥇💼
 
 
+## My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kush95300&&show_icons=true&title_color=008000&icon_color=0000ff&text_color=000000&bg_color=f5f5f5" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush95300&theme=dracula&hide_langs_below=1" />
 
+![Kaushal Soni's github stats](https://github-readme-stats.vercel.app/api?username=kush95300&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kush95300&theme=tokyonight)
+
+
+
+### Reach out to me 👓
+
+<a href=""><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
+<a href="https://github.com/kush95300"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> 
+<a href=""><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> 
+<a href="https://www.linkedin.com/in/sonikaushal"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
+<a href=""><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
 
 <!--
 **kush95300/kush95300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
