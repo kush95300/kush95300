@@ -136,6 +136,10 @@ Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communica
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kush95300&theme=tokyonight)
 ![Kaushal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kush95300&theme=dracula)
 
+<b>My GitHub contributions as a Game of Life</b>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/kush95300.gif?z=6)](https://github4life.herokuapp.com/kush95300)
+
 
 <!--footer-->
 
