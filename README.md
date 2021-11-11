@@ -71,11 +71,11 @@ If you see an opportunity for us to work together or any freelancer work. Then p
 [![Polywork Badge](https://img.shields.io/badge/-kaushalsoni-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
 [![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/khushbooverma_?style=social)](https://twitter.com/khushbooverma_)
 
-
+-->
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
 
-<a href="https://www.buymeacoffee.com/khushbooverma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
--->
+<a href="https://www.buymeacoffee.com/sonikaushal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" ></a>
+
 
 <!--
 **kush95300/kush95300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
