@@ -16,6 +16,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kush95300)
 [![GitHub kush95300](https://img.shields.io/github/followers/kush95300?label=follow&style=social)](https://github.com/kush95300)
  ![GitHub Stars](https://img.shields.io/github/stars/kush95300?style=social)
+![](https://komarev.com/ghpvc/?username=kush95300&color=green)
  
 [![Linkedin: Kaushal Soni](https://img.shields.io/badge/-Kaushal%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonikaushal/)](https://www.linkedin.com/in/sonikaushal/)
 [![Medium Badge](https://img.shields.io/badge/-@Kaushal%20Soni-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kaushalsoni)](https://medium.com/@kaushalsoni)
