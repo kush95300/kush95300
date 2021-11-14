@@ -25,7 +25,6 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kush95300&left_color=gray&right_color=blue)
 
 </div>  
-
 </br>
 
  
@@ -106,7 +105,7 @@ Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communica
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)]
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
-### Cloud 
+### Cloud Platforms
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
